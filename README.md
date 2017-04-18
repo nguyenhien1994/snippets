@@ -1,2 +1,6 @@
-# snippets
-Bash history search, partial + up-arrow
+# Bash history search, partial + up-arrow
+
+## arrow up
+"\e[A":history-search-backward
+## arrow down
+"\e[B":history-search-forward
